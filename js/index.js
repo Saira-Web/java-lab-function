@@ -2,12 +2,28 @@
 //divide it by 2, and return the result. 
 //It should also log a string like "Half of 5 is 2.5.".
 
+//function functionName(parameters) {
+    // code to be executed
+  //}
+function halfNumber(num) {
+    document.querySelector("#value").textContent = "Half of 5 is 2.5."
+    return answer = num / 2
+}
+halfNumber (5)
+
+
+
 
 
 // 2. Write a function called percentOf that will take two numbers, 
 //figure out what percent the first number represents of the second number, a
 //nd return the result. It should also log a string like "2 is 50% of 4."
 
+
+function percentOf (){
+
+
+}
 
 
 // 3. Write a function called areaOfCircle that will take one argument (the radius), 
